@@ -16,7 +16,7 @@ e.g. If "mobile phone number" and "email address" information appear in the resp
 
 ## About it
 
-Sensitive information is divided into three categories: `MobilePhone Number` \ `Email Address` \ `Chinese IDCard`
+Sensitive information is divided into three categories: `Chinese MobilePhone Number` \ `Email Address` \ `Chinese IDCard`
 
 1.Marked as **yellow** when one of the information exists
 
